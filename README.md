@@ -1,3 +1,5 @@
+This is branch contains Python 3.4 compatible telesync plugin
+
 # Introduction
 
 Hangupsbot is a chat bot designed for working with Google Hangouts.
